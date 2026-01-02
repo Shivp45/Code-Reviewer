@@ -24,13 +24,13 @@ A smart code review tool powered by Google Gemini AI that analyzes your code, de
 - **Code Processing:** Supports multi-language code input
 
 Image1
-![Image1](./frontend/public/Image1.png)
+![Image1](./Frontend/public/Image1.png)
 
 Image2
-![Image2](./frontend/public/Image2.png)
+![Image2](./Frontend/public/Image2.png)
 
 Image3
-![Image3](./frontend/public/Image3.png)
+![Image3](./Frontend/public/Image3.png)
 
 
 
