@@ -38,24 +38,28 @@ Image3
 
 1) Clone the repository
 
-```git clone https://github.com/Shivp45/Code-Reviewer.git
+```
+   git clone https://github.com/Shivp45/Code-Reviewer.git
 ```
 
 2) Backend Setup (Django)
 
-```cd backend
+```
+   cd backend
    npm install 
    npx nodemon
 ```
 
 2) Frontend Setup
 
-```cd Frontend
+```
+   cd Frontend
    npm run dev
 ```
 
 ## Create .env inside /backend:
 
-```GOOGLE_GEMINI_KEY=your_key_here
+```
+   GOOGLE_GEMINI_KEY=your_key_here
 ```
 
