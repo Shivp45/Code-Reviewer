@@ -33,6 +33,8 @@ Image3
 ![Image3](./Frontend/public/Image3.png)
 
 
+Images unable to load, see them inside =>  Frontend/public/*
+
 
 ## Installation & Setup
 
